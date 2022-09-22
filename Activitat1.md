@@ -27,14 +27,17 @@ Aquest és el nostre pressupost, en la captura podem observar que per mes ens va
 
 L’usuari administrador, que en el nostre cas és David ha de crear una nova carpeta.
 ![](C.G.png)
+
 Una vegada creada hem de fer les dos “Unitats” la de Backup i la de Documents, que sols l’administrador té permisos d’edició.
 ![](C.png)
+
 I com podem veure l’administrador té permissos a tot i l’usuari sols té permissos de lectura.
 
 # 4-Guia de creació de les unitats compartides BACKUP i DOCUMENTS on es vegin els permisos assignats a cada tipus d’usuari/a.
 
 Primer creem les carpetes Backup i Documents
 ![](Carpetes.png)
+
 Una vegada creades posem els permisos per als usuaris Administrador i Usuaris.
 ![](Comparticions.png)
 
@@ -43,32 +46,44 @@ Administrador/a i usuari/a.
 
 El primer que hem de fer es obrir el paràmetres de l’ordinador i anem a “comptes en linea”.
 ![](1.png)
+
 Ens connectarem a google amb la cuenta de l’institut.
 ![](2.png)
+
 Desprès d’inicia sessió li donem a permetre 
 ![](3.png)
+
 Aqui decidirem què volem que ens aparèixer, en el nostre cas sol volem els fitxers
 ![](4.png)
+
 Ara en apareixerà el nostre drive a les carpetes del nostre ordinador.
 ![](5.png)
+
 Entrem dins de la carpeta on tenim la nostra copia de seguretat i ho arrastrem a la vora per a poder accedir més ràpid
 ![](6.png)
+
 Quedaria així.
 ![](7.png)
+
 # 6-Exemples d’ús de fer un backup per part de l’administrador/a.
 
 Per poder fer un backup d’alguna cosa primer hem de fer una carpeta amb el nom de Còpia de Seguretat 001.
 ![](8.png)
+
 Després li donem a Comprimeix…
 ![](9.png)
+
 I finalment ho movem a Backup.
 ![](10.png)
+
 # 7-Exemples d’ús de consultar un document per part de l’usuari/a.
 
 Entrem dins de la carpeta de Documents i entrem dins del document que es diu “exemple”
 ![](11.png)
+
 Sol puc visualitzar el document, no puc editar.
 ![](12.png)
+
 # 8-Comproveu si un usuari/a pot eliminar sense voler algun document.
 
 Si un usuari entra a la carpeta de Backup i intentar eliminar algo li apareixerà bloquejat perquè no té els permisos.
