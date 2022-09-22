@@ -1,7 +1,7 @@
 # Cas pràctic 1
  ![](Titol.png)
 
-INDEX
+## INDEX
 
 
 - Perquè penseu que aquesta és una bona solució al nostre problema.	
