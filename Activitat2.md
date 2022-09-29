@@ -30,4 +30,24 @@ Després hem d'instal·lar MariaDB, per a fer-ho posem aquesta comanda:
 
 ![image](https://user-images.githubusercontent.com/114162341/193053503-afa503ca-794a-40f7-9308-ea6c9537e49a.png)
 
+I ara per a configurar la instal·lació posem aixo:
+
+```sudo mysql_secure_installation```
+
+![image](https://user-images.githubusercontent.com/114162341/193054313-e262cb2f-cf2d-45b9-b2b0-d1f1910363e3.png)
+
+A continuació ens farà diverses preguntes, és preferible contestar amb:
+
+- Switch to unix_socket authentication [Y/n] y
+- Change the root password? [Y/n] n
+- Remove anonymous users? [Y/n] y
+- Disallow root login remotely? [Y/n] y
+- Remove test database and access to it? [Y/n] y
+- Reload privilege tables now? [Y/n] y
+
+I per últim reiniciem el servidor MariaDB.
+
+```sudo systemctl restart mariadb.service` o `sudo service mariadb.service restart```
+
+![image](https://user-images.githubusercontent.com/114162341/193056517-3ddf2a3e-254c-45c4-b4b9-2f2bc166e575.png)
 
