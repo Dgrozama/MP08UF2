@@ -137,3 +137,8 @@ Ara descarguem l'última versión del programa i descomprimim els arxius, a més
 ```sudo mv owncloud /var/www/html/owncloud/```
 
 ![image](https://user-images.githubusercontent.com/114162341/193064564-8d9a6012-7fa5-466e-84e3-2cc50a92570d.png)
+
+I ara canviem el propietari i els permissos dels directoris d'owncloud. www-data per a que els pugui usar Apache, 755 para que els pugui executar i llegir qualsevol usuari de Linux:
+
+```sudo chown -R www-data:www-data /var/www/html/owncloud/```
+```sudo chmod -R 755 /var/www/html/owncloud/```
