@@ -9,7 +9,7 @@
 - Servidor Web Apache2
 - PDP: 7.4
 
-### Instal·lació:
+### Instal·lació Apache2 i MariaDB:
 
 Primer hem d'instal·lar l'apache2. Per a fer-ho fem de posar aquesta comanda a la terminal:
 
@@ -23,4 +23,11 @@ Segon desactivem el llistat de directoris del servidor amb la comanda:
 ```sudo sed -i "s/Options Indexes FollowSymLinks/Options FollowSymLinks/" /etc/apache2/apache2.conf```
 
 ![image](https://user-images.githubusercontent.com/114162341/193052438-e1398500-cb3a-4456-918a-bb18f45c1f3b.png)
+
+Després hem d'instal·lar MariaDB, per a fer-ho posem aquesta comanda:
+
+```sudo apt-get install mariadb-server mariadb-client -y```
+
+![image](https://user-images.githubusercontent.com/114162341/193053503-afa503ca-794a-40f7-9308-ea6c9537e49a.png)
+
 
