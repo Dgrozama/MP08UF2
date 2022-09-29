@@ -142,3 +142,5 @@ I ara canviem el propietari i els permissos dels directoris d'owncloud. www-data
 
 ```sudo chown -R www-data:www-data /var/www/html/owncloud/```
 ```sudo chmod -R 755 /var/www/html/owncloud/```
+
+![image](https://user-images.githubusercontent.com/114162341/193068651-b470232b-81fa-4362-a6bc-00e77ab33cf4.png)
