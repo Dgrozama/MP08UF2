@@ -77,3 +77,30 @@ I després li donem accés a l'usuari a la base de dades anteriorment creada.
 
 ![image](https://user-images.githubusercontent.com/114162341/193057787-da0814fd-e0a7-4cc7-a91d-cab1b75cb0ff.png)
 
+I finalment apliquem els canvis i sortim.
+
+```FLUSH PRIVILEGES;```
+```EXIT;```
+
+![image](https://user-images.githubusercontent.com/114162341/193058212-beabe2a0-10c4-46ee-bdeb-8ba17040615d.png)
+
+### Instal·lació de PHP i els mòduls neccesaris
+
+Primer li instal·lem un repositori per a ell.
+
+```sudo apt-get install software-properties-common -y sudo add-apt-repository ppa:ondrej/php```
+
+![image](https://user-images.githubusercontent.com/114162341/193059134-b7ef086b-b9cd-4fb2-9966-e42534cdfae4.png)
+
+I ara actualitzem els paquets amb el repositori afegit.
+
+```sudo apt update```
+
+![image](https://user-images.githubusercontent.com/114162341/193059568-76e3f4a8-4d8f-4382-a6ca-477c6d709a6d.png)
+
+Després instal·lem el PHP amb els seus mòduls neccesaris.
+
+```sudo apt install php7.4 libapache2-mod-php7.4 php7.4-common php7.4-mbstring php7.4-xmlrpc php7.4-soap php7.4-apcu php7.4-smbclient php7.4-ldap php7.4-redis php7.4-gd php7.4-xml php7.4-intl php7.4-json php7.4-imagick php7.4-mysql php7.4-cli php7.4-mcrypt php7.4-ldap php7.4-zip php7.4-curl -y```
+
+![image](https://user-images.githubusercontent.com/114162341/193060053-92fbb3f9-4fac-424c-98d7-d2d805ce4234.png)
+
