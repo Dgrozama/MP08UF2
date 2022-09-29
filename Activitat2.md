@@ -122,3 +122,18 @@ I finalment busquem "date.timezone" i escrivim Europe/Madrid.
 
 ![image](https://user-images.githubusercontent.com/114162341/193062298-ce0cd5f0-5863-4ff1-ab20-86ac15b3bca5.png)
 
+### Descarga del Owncloud
+
+Ara descarguem l'última versión del programa i descomprimim els arxius, a més a més movem els arxius d' Owncloud a "/var/www/html/owncloud".
+
+```cd /tmp && wget https://download.owncloud.com/server/stable/owncloud-complete-latest.zip```
+
+![image](https://user-images.githubusercontent.com/114162341/193063086-e37a1510-f2c0-41a9-a40f-a5af735aeec8.png)
+
+```unzip owncloud-complete-lastest.zip```
+
+![image](https://user-images.githubusercontent.com/114162341/193064211-1edb0053-25fb-488c-87a6-9fb510c8ac39.png)
+
+```sudo mv owncloud /var/www/html/owncloud/```
+
+![image](https://user-images.githubusercontent.com/114162341/193064564-8d9a6012-7fa5-466e-84e3-2cc50a92570d.png)
