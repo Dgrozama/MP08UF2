@@ -51,3 +51,29 @@ I per últim reiniciem el servidor MariaDB.
 
 ![image](https://user-images.githubusercontent.com/114162341/193056517-3ddf2a3e-254c-45c4-b4b9-2f2bc166e575.png)
 
+### Creació de la base de dades d'owncloud
+
+Primer entrem en MariaDB.
+
+```sudo mysql -u root -p```
+
+![image](https://user-images.githubusercontent.com/114162341/193056941-4a7d15d0-abaf-43c2-9e09-a5721bd23475.png)
+
+Després creem la base de dades.
+
+```CREATE DATABASE owncloud;```
+
+![image](https://user-images.githubusercontent.com/114162341/193057090-f989472e-685f-4984-b03a-8037b9e1754a.png)
+
+Ara creem un usuari anomenat "ownclouduser" i la contrasenya "Admin1234".
+
+```CREATE USER 'ownclouduser'@'localhost' IDENTIFIED BY 'Admin1234';```
+
+![image](https://user-images.githubusercontent.com/114162341/193057560-1a14e526-7b12-485f-8b1f-9f9fe519cb8e.png)
+
+I després li donem accés a l'usuari a la base de dades anteriorment creada.
+
+```GRANT ALL ON owncloud.* TO 'ownclouduser'@'localhost' IDENTIFIED BY 'Admin1234' WITH GRANT OPTION;```
+
+![image](https://user-images.githubusercontent.com/114162341/193057787-da0814fd-e0a7-4cc7-a91d-cab1b75cb0ff.png)
+
