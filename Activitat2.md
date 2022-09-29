@@ -104,3 +104,21 @@ Després instal·lem el PHP amb els seus mòduls neccesaris.
 
 ![image](https://user-images.githubusercontent.com/114162341/193060053-92fbb3f9-4fac-424c-98d7-d2d805ce4234.png)
 
+I ara accedim al fitxer php.ini i canviem alguns valors.
+
+```sudo gedit /etc/php/7.4/apache2/php.ini```
+
+![image](https://user-images.githubusercontent.com/114162341/193060452-49292049-d277-4cee-bd76-7c691779806c.png)
+
+Una vegada dins fem "Ctrl+F" i escrivim "Memory_limit" i canviem de 128M a 256M.
+
+![image](https://user-images.githubusercontent.com/114162341/193061428-f0636096-6fd4-415f-bba2-58ea778426c1.png)
+
+També busquem "upload_max_filesize" i canviem de 2M a 100M.
+
+![image](https://user-images.githubusercontent.com/114162341/193061884-9e1cf437-953b-4b68-989d-b1c4dee25d85.png)
+
+I finalment busquem "date.timezone" i escrivim Europe/Madrid.
+
+![image](https://user-images.githubusercontent.com/114162341/193062298-ce0cd5f0-5863-4ff1-ab20-86ac15b3bca5.png)
+
