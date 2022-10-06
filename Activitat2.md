@@ -155,4 +155,10 @@ I ara he entrat a la carpeta de apache2 i dins he entrat a sites-avaliable, dins
 
 ![image](https://user-images.githubusercontent.com/114162341/194346203-ce4ec847-6bae-49c0-aba9-aa7dbdf6b07c.png)
 
+I ara entro al arxiu clonat i he afegit dos formes d'accedir a la web (owncloud.dlgm.com i www.owncloud.dlgm.com
 
+![image](https://user-images.githubusercontent.com/114162341/194346690-57260469-5dea-4ab3-9fc1-a70629f35a2c.png)
+
+I ara posem aquesta comanda per a activar la nova configuració.
+
+![image](https://user-images.githubusercontent.com/114162341/194347281-73e00389-4c13-4df5-af07-fcd4f39616b8.png)
