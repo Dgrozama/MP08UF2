@@ -144,3 +144,10 @@ I ara canviem el propietari i els permissos dels directoris d'owncloud. www-data
 ```sudo chmod -R 755 /var/www/html/owncloud/```
 
 ![image](https://user-images.githubusercontent.com/114162341/193068651-b470232b-81fa-4362-a6bc-00e77ab33cf4.png)
+
+Ara posem aquesta comanda per a modificar el nom del host. Una vegada obert posem una altra ruta amb la ip 127.0.0.1 i el nom del domini "owncloud.dlgm.com".
+
+```sudo gedit hosts```
+
+![image](https://user-images.githubusercontent.com/114162341/194343747-436a0b9e-b3b6-4ecd-82b8-85442e6e3d6b.png)
+
