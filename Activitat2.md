@@ -151,3 +151,8 @@ Ara posem aquesta comanda per a modificar el nom del host. Una vegada obert pose
 
 ![image](https://user-images.githubusercontent.com/114162341/194343747-436a0b9e-b3b6-4ecd-82b8-85442e6e3d6b.png)
 
+I ara he entrat a la carpeta de apache2 i dins he entrat a sites-avaliable, dins d'aquesta carpeta he clonat el arxiu de 000-default.conf a owncloud.conf.
+
+![image](https://user-images.githubusercontent.com/114162341/194346203-ce4ec847-6bae-49c0-aba9-aa7dbdf6b07c.png)
+
+
