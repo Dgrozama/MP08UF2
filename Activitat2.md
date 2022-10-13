@@ -162,3 +162,12 @@ I ara entro al arxiu clonat i he afegit dos formes d'accedir a la web (owncloud.
 I ara posem aquesta comanda per a activar la nova configuració.
 
 ![image](https://user-images.githubusercontent.com/114162341/194347281-73e00389-4c13-4df5-af07-fcd4f39616b8.png)
+
+Ara entrem a aquest arxiu de configuració per a configurar l'owncloud.
+
+![image](https://user-images.githubusercontent.com/114162341/195612579-70e3680c-b661-4cd3-96f0-ac1b41de3a5d.png)
+
+I dins del document escrivim aquesta linea de comandes. 
+
+![image](https://user-images.githubusercontent.com/114162341/195612901-7df6568f-34d3-476f-bd22-910fecbf0d76.png)
+
