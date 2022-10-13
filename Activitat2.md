@@ -171,5 +171,7 @@ I dins del document escrivim aquesta linea de comandes.
 
 ![image](https://user-images.githubusercontent.com/114162341/195612901-7df6568f-34d3-476f-bd22-910fecbf0d76.png)
 
- -VirtualHost *:80: Vol dir 
- -ServerAdmin: 
+ -VirtualHost *:80: Vol dir que el servidor contestará per qualsevol ip i el 80 vol dir el port pel qual contestará.
+ -ServerAdmin: És el correu del administrador del servidor.
+ -DocumentRoot:
+ -ServerName: Aquest és el nom del nostre servidor.
