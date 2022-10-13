@@ -171,7 +171,10 @@ I dins del document escrivim aquesta linea de comandes.
 
 ![image](https://user-images.githubusercontent.com/114162341/195612901-7df6568f-34d3-476f-bd22-910fecbf0d76.png)
 
- -VirtualHost *:80: Vol dir que el servidor contestará per qualsevol ip i el 80 vol dir el port pel qual contestará.
- -ServerAdmin: És el correu del administrador del servidor.
- -DocumentRoot:
- -ServerName: Aquest és el nom del nostre servidor.
+ - VirtualHost *:80: Vol dir que el servidor contestará per qualsevol ip i el 80 vol dir el port pel qual contestará.
+ - ServerAdmin: És el correu del administrador del servidor.
+ - DocumentRoot:
+ - ServerName: Aquest és el nom del nostre servidor.
+ - ServerAlias: És un link al qual si l'escrivim ens porta a la mateixa pàgina, és a dir, si el meu link és owncloud.com, amb www.owncloud.com no em portarà, però si ho poso al alias sí que em direcciona a la meva pàgina.
+ - Alias /owncloud "/var/www/html/owncloud/": 
+ - <Directory /var/www/html/owncloud/>: Aquest és el directori.
