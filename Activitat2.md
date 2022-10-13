@@ -171,3 +171,5 @@ I dins del document escrivim aquesta linea de comandes.
 
 ![image](https://user-images.githubusercontent.com/114162341/195612901-7df6568f-34d3-476f-bd22-910fecbf0d76.png)
 
+ -VirtualHost *:80: Vol dir 
+ -ServerAdmin: 
