@@ -173,8 +173,8 @@ I dins del document escrivim aquesta linea de comandes.
 
  - VirtualHost *:80: Vol dir que el servidor contestará per qualsevol ip i el 80 vol dir el port pel qual contestará.
  - ServerAdmin: És el correu del administrador del servidor.
- - DocumentRoot:
+ - DocumentRoot: És el directori de nivell superior de l'arbre del document visible des de la web i aquesta directiva estableix el directori en la configuració des del qual Apache2 cerca serveis fitxers web des de l'URL sool·licitat fins a l'arrel del document.
  - ServerName: Aquest és el nom del nostre servidor.
  - ServerAlias: És un link al qual si l'escrivim ens porta a la mateixa pàgina, és a dir, si el meu link és owncloud.com, amb www.owncloud.com no em portarà, però si ho poso al alias sí que em direcciona a la meva pàgina.
  - Alias /owncloud "/var/www/html/owncloud/": 
- - <Directory /var/www/html/owncloud/>: Aquest és el directori.
+ - <Directory /var/www/html/owncloud/>: Aquest és el directori al qual s'aplicarán la següent configuració.
