@@ -187,7 +187,8 @@ sudo a2enmod rewrite
 sudo a2enmod headers
 sudo a2enmod env
 sudo a2enmod dir
-sudo a2enmod mime```
+sudo a2enmod mime
+```
 
 ![image](https://user-images.githubusercontent.com/114162341/195872181-542e935d-a8a2-43c1-b6a5-c82ec0da515d.png)
 
