@@ -178,3 +178,4 @@ I dins del document escrivim aquesta linea de comandes.
  - ServerAlias: És un link al qual si l'escrivim ens porta a la mateixa pàgina, és a dir, si el meu link és owncloud.com, amb www.owncloud.com no em portarà, però si ho poso al alias sí que em direcciona a la meva pàgina.
  - Alias /owncloud "/var/www/html/owncloud/": 
  - <Directory /var/www/html/owncloud/>: Aquest és el directori al qual s'aplicarán la següent configuració.
+ - 
