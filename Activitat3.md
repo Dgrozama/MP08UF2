@@ -19,8 +19,13 @@ Com podem veure el host està habilitat.
 
 ![image](https://user-images.githubusercontent.com/110727546/194824543-c49bf482-ac93-432f-884c-d89487e587f3.png)
 
-
 **RESPOSTA**
+
+Ara ho trobem a la següent ruta:
+
+```cd /var/www/html/owncloud/data/ownclouduser/files```
+
+![image](https://user-images.githubusercontent.com/114162341/195867111-e2877deb-cf72-4a97-ac1c-3e0080cfed94.png)
 
 **3.3.-** Al directori **Learn more about owncloud** hi ha informació en forma de fitxers pdf. Consulta'ls i respon aquestes preguntes:
 
