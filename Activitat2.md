@@ -179,3 +179,36 @@ I dins del document escrivim aquesta linea de comandes.
  - Alias /owncloud "/var/www/html/owncloud/": 
  - <Directory /var/www/html/owncloud/>: Aquest és el directori al qual s'aplicarán la següent configuració.
  - 
+
+I ara posem aquestes comandes per a habilitar el owncloud i el rewrite.
+
+```sudo a2ensite owncloud.conf
+sudo a2enmod rewrite
+sudo a2enmod headers
+sudo a2enmod env
+sudo a2enmod dir
+sudo a2enmod mime```
+
+![image](https://user-images.githubusercontent.com/114162341/195872181-542e935d-a8a2-43c1-b6a5-c82ec0da515d.png)
+
+I ara fem un restart.
+
+```sudo service apache2 restart```
+
+![image](https://user-images.githubusercontent.com/114162341/195873032-fc2e24a6-aca8-4e23-abbc-9fd5df6fc196.png)
+
+I ara busquem l'arxiu config.php amb aquesta comanda:
+
+```sudo find / -iname config.php```
+
+![image](https://user-images.githubusercontent.com/114162341/195873690-f434104e-ef50-4fb1-849c-8b70a98a68a9.png)
+
+I ara copiem la ruta i fem un:
+
+```sudo nano /var/www/html/owncloud/config.php```
+
+![image](https://user-images.githubusercontent.com/114162341/195874330-ee2793c2-c775-40ef-8ffb-79d19778d616.png)
+
+I dins del arxiu hem de trobar 0 => 'localhost', el copiem i peguem justament abaix i posem el link de la nostra pàgina web.
+
+![image](https://user-images.githubusercontent.com/114162341/195874863-70b2fe23-08af-43d8-b9f3-f6b8e31a4d90.png)
