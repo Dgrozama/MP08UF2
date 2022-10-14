@@ -10,6 +10,11 @@ apache2ctl -S
 
 **RESPOSTA**
 
+Com podem veure el host està habilitat.
+
+![image](https://user-images.githubusercontent.com/114162341/195857582-dc37afa0-0a32-4a39-b56d-da782d69243f.png)
+
+
 **3.2.-** A Owncloud podem veure que hi ha una serie de carpetes per defecte, mostra la ruta real a les tres carpetes dins de la teva MV.
 
 ![image](https://user-images.githubusercontent.com/110727546/194824543-c49bf482-ac93-432f-884c-d89487e587f3.png)
