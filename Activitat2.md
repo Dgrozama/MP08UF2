@@ -213,3 +213,5 @@ I ara copiem la ruta i fem un:
 I dins del arxiu hem de trobar 0 => 'localhost', el copiem i peguem justament abaix i posem el link de la nostra pàgina web.
 
 ![image](https://user-images.githubusercontent.com/114162341/195874863-70b2fe23-08af-43d8-b9f3-f6b8e31a4d90.png)
+
+I ara ja podrem accedir a la nostra pàgina web.
