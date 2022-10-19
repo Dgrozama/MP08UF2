@@ -178,7 +178,10 @@ I dins del document escrivim aquesta linea de comandes.
  - ServerAlias: És un link al qual si l'escrivim ens porta a la mateixa pàgina, és a dir, si el meu link és owncloud.com, amb www.owncloud.com no em portarà, però si ho poso al alias sí que em direcciona a la meva pàgina.
  - Alias /owncloud "/var/www/html/owncloud/": 
  - <Directory /var/www/html/owncloud/>: Aquest és el directori al qual s'aplicarán la següent configuració.
- - 
+ - Options +FollowSymlinks: És una directiva dels servidors web apache.
+ - AllowOverride All: És una opció que ens permet anul·lar alguns paràmetres d'Apache mitjançant un fitxer.
+ - Require all granted: És una opció per al control d'accés.
+
 
 I ara posem aquestes comandes per a habilitar el owncloud i el rewrite.
 
@@ -215,3 +218,11 @@ I dins del arxiu hem de trobar 0 => 'localhost', el copiem i peguem justament ab
 ![image](https://user-images.githubusercontent.com/114162341/195874863-70b2fe23-08af-43d8-b9f3-f6b8e31a4d90.png)
 
 I ara ja podrem accedir a la nostra pàgina web.
+
+Què fa la comanda a2ensite?
+
+I la comando a2dissite?
+
+Què significa la línia de /etc/hosts
+
+127.0.0.1 owncloud.XYZ.com
