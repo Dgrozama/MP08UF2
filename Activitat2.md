@@ -181,6 +181,9 @@ I dins del document escrivim aquesta linea de comandes.
  - Options +FollowSymlinks: És una directiva dels servidors web apache.
  - AllowOverride All: És una opció que ens permet anul·lar alguns paràmetres d'Apache mitjançant un fitxer.
  - Require all granted: És una opció per al control d'accés.
+ - <IfModule mod_dav.c>:
+ - Dav off: 
+ - </IfModule>
 
 
 I ara posem aquestes comandes per a habilitar el owncloud i el rewrite.
