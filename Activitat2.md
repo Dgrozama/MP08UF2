@@ -184,7 +184,8 @@ I dins del document escrivim aquesta linea de comandes.
  - <IfModule mod_dav.c>: És una extensió del protocol HTTP que permet crear, moure, copiar i suprimir recursos i col·leccions en un servidor web remot.
  - Dav off: Desactiva aquesta extensió.
  - </IfModule>: Tanca la extensió.
-
+ - SetEnv HOME /var/www/html/owncloud: 
+ - SetEnv HTTP_HOME /var/www/html/owncloud:
 
 I ara posem aquestes comandes per a habilitar el owncloud i el rewrite.
 
