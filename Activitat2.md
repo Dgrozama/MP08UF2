@@ -225,8 +225,14 @@ I ara ja podrem accedir a la nostra pàgina web.
 
 Què fa la comanda a2ensite?
 
+Permet activar un lloc web virtual en un servidor web apache2.
+
 I la comando a2dissite?
+
+Desactiva el lloc web apache2.
 
 Què significa la línia de /etc/hosts
 
 127.0.0.1 owncloud.XYZ.com
+
+Significa que en lloc de sortir-nos la ip del lloc web ens sortirà l'adreça de la nostra web, en el meu cas seria owncloud.DLGM.com
