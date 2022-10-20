@@ -30,10 +30,10 @@ Ara ho trobem a la següent ruta:
 **3.3.-** Al directori **Learn more about owncloud** hi ha informació en forma de fitxers pdf. Consulta'ls i respon aquestes preguntes:
 
 - Quin són els tres tipus de protecció de dades que ofereix Owncloud?
-  - 1. Encryption in Transit
+  - 1 Encryption in Transit
   - 2.1 Encryption at Rest
   - 2.2 Encryption at Rest with Master Key in Hardware Security Module (HSM)
-  - 3. End-to-End Encryption
+  - 3 End-to-End Encryption
 
 - Fes una petita descripció de cada un d'ells.
   1. 
