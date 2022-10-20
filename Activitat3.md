@@ -37,16 +37,18 @@ Ara ho trobem a la següent ruta:
 
 - Fes una petita descripció de cada un d'ells.
   1 Proporciona una manera de protegir les dades entre instancies i sistemes d'arxius muntats mitjançant el cifratge TLS.
-  2.2 És un mètode de cifratge 
-  2.2 
-  3 
+  2.2 És un mètode de cifratge dissenyat per a evitar que l'atacant obtingui accés a les dades sense xifratge assegurant-se de que les dades es xifrin en el disc.
+  2.2 És el mateix mètode però amb contrasenya (una clau mestra (master key))
+  3 És un procés de comunicació segur que evita que tercers accedeixin a les dades transferides d'un extrem a l'altre.
  
 - Per quina raó ens recomana utilitzar Owncloud per als documents de Microsoft Office de la nostra empresa? 
 
   Ens recomana ja que ownCloud ens prové un plugin que ajuda als usuaris a unir-se amb el seu email i també té un plugin d'encriptació End-to-End per a asegurar els teus administradors del sistema.
 
 - Això passa a tots els països?
--
+
+
+
 - Quina és la llicència d'OWncloud Enterprise?
 - I la d'Owncloud Standard?
 - Es poden veure videos en Streaming directament des de Owncloud?
