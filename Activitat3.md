@@ -50,19 +50,59 @@ Ara ho trobem a la següent ruta:
 
 
 - Quina és la llicència d'OWncloud Enterprise?
+
+
+
 - I la d'Owncloud Standard?
+
+
+
 - Es poden veure videos en Streaming directament des de Owncloud?
+
+
+
 - Es poden connectar directoris de Google Drive a Owncloud?
+
+
+
 - I Dropbox?
+
+
+
 - Compta Owncloud amb antivirus? En cas afirmatiu com es diu? 
+
+
+
 
 **RESPOSTA**
 
 **3.4.-** Mostra els següents canvis de paràmetres d'usuari:
 
 - Posa't una imatge d'usuari.
+
+Primer accedeixo a la carpeta "Downloads" i trio la meva imatge descarregada.
+
+![image](https://user-images.githubusercontent.com/114162341/196979436-e521e6f3-58b0-43ec-ad07-1cffeadcada5.png)
+
+I ara li dono a "Seleccionar como foto de perfil".
+
+![image](https://user-images.githubusercontent.com/114162341/196979558-2fec1389-1567-4164-8158-0e6ee28c0eeb.png)
+
 - Afegeix el teu mail de l'Institut.
+
+He posat el meu correu i li he donat a "Establecer correo electrónico".
+
+![image](https://user-images.githubusercontent.com/114162341/196979817-a69b694c-6772-426e-b329-265572fb5b28.png)
+
+
 - Canvia l'idioma a català.
+
+Per a canviar de idioma sols hem de fer clic damunt de Castellano i allí busquem el Català.
+
+![image](https://user-images.githubusercontent.com/114162341/196980244-c64c1bbd-171b-4f34-afb4-8ac63d310e10.png)
+
 - Mostra la versió d'Owncloud instal·lada.
 
-**RESPOSTA**
+I abaix de tot ens ensenya la última versió del owncloud.
+
+![image](https://user-images.githubusercontent.com/114162341/196980805-56b0f6ca-2708-4451-81c6-dc456103a5c1.png)
