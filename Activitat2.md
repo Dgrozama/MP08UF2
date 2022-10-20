@@ -176,7 +176,7 @@ I dins del document escrivim aquesta linea de comandes.
  - DocumentRoot: És el directori de nivell superior de l'arbre del document visible des de la web i aquesta directiva estableix el directori en la configuració des del qual Apache2 cerca serveis fitxers web des de l'URL sool·licitat fins a l'arrel del document.
  - ServerName: Aquest és el nom del nostre servidor.
  - ServerAlias: És un link al qual si l'escrivim ens porta a la mateixa pàgina, és a dir, si el meu link és owncloud.com, amb www.owncloud.com no em portarà, però si ho poso al alias sí que em direcciona a la meva pàgina.
- - Alias /owncloud "/var/www/html/owncloud/": 
+ - Alias /owncloud "/var/www/html/owncloud/": Aquesta comanda li diu a apache2 on mirar si t'estás connectant al teu servidor owncloud.
  - <Directory /var/www/html/owncloud/>: Aquest és el directori al qual s'aplicarán la següent configuració.
  - Options +FollowSymlinks: És una directiva dels servidors web apache.
  - AllowOverride All: És una opció que ens permet anul·lar alguns paràmetres d'Apache mitjançant un fitxer.
@@ -184,8 +184,8 @@ I dins del document escrivim aquesta linea de comandes.
  - IfModule mod_dav.c: És una extensió del protocol HTTP que permet crear, moure, copiar i suprimir recursos i col·leccions en un servidor web remot.
  - Dav off: Desactiva aquesta extensió.
  - /IfModule: Tanca la extensió.
- - SetEnv HOME /var/www/html/owncloud: 
- - SetEnv HTTP_HOME /var/www/html/owncloud:
+ - SetEnv HOME /var/www/html/owncloud: Estableix el valor de la variable d'entorn d'Apache2 especificat per variable.
+ - SetEnv HTTP_HOME /var/www/html/owncloud: Estableix el valor de la variable d'entorn d'Apache2 especificat per variable.
 
 I ara posem aquestes comandes per a habilitar el owncloud i el rewrite.
 
