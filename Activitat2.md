@@ -181,9 +181,9 @@ I dins del document escrivim aquesta linea de comandes.
  - Options +FollowSymlinks: És una directiva dels servidors web apache.
  - AllowOverride All: És una opció que ens permet anul·lar alguns paràmetres d'Apache mitjançant un fitxer.
  - Require all granted: És una opció per al control d'accés.
- - "<IfModule mod_dav.c>": És una extensió del protocol HTTP que permet crear, moure, copiar i suprimir recursos i col·leccions en un servidor web remot.
+ - IfModule mod_dav.c: És una extensió del protocol HTTP que permet crear, moure, copiar i suprimir recursos i col·leccions en un servidor web remot.
  - Dav off: Desactiva aquesta extensió.
- - "</IfModule>": Tanca la extensió.
+ - /IfModule: Tanca la extensió.
  - SetEnv HOME /var/www/html/owncloud: 
  - SetEnv HTTP_HOME /var/www/html/owncloud:
 
