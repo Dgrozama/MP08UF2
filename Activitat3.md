@@ -31,14 +31,14 @@ Ara ho trobem a la següent ruta:
 
 - Quin són els tres tipus de protecció de dades que ofereix Owncloud?
   1. Encryption in Transit
-  2a. Encryption at Rest
-  2b. Encryption at Rest with Master Key in Hardware Security Module (HSM)
+  2.1 Encryption at Rest
+  2.2 Encryption at Rest with Master Key in Hardware Security Module (HSM)
   3. End-to-End Encryption
 
 - Fes una petita descripció de cada un d'ells.
   1. 
-  2a. 
-  2b. 
+  2.2 
+  2.2 
   3. 
  
 - Per quina raó ens recomana utilitzar Owncloud per als documents de Microsoft Office de la nostra empresa?  
