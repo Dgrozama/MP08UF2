@@ -51,7 +51,7 @@ Sí, a tots els països de la unió europea.
 
 - Quina és la llicència d'OWncloud Enterprise?
 
-És la llicència pensat per a empreses.
+És la llicència pensat per a empreses, amb un software amb una llicència comercial .
 
 - I la d'Owncloud Standard?
 
