@@ -43,11 +43,11 @@ Ara ho trobem a la següent ruta:
  
 - Per quina raó ens recomana utilitzar Owncloud per als documents de Microsoft Office de la nostra empresa? 
 
-  Ens recomana ja que ownCloud ens prové un plugin que ajuda als usuaris a unir-se amb el seu email i també té un plugin d'encriptació End-to-End per a asegurar els teus administradors del sistema.
+ Perquè emmagatzema les dades (documents, etc...) al núvol per a que estiguin ben guardades i de manera segura.
 
 - Això passa a tots els països?
 
-
+Sí, a tots els països de la unió europea.
 
 - Quina és la llicència d'OWncloud Enterprise?
 
