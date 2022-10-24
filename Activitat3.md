@@ -59,19 +59,19 @@ La edició standard està programanda per a usuaris.
 
 - Es poden veure videos en Streaming directament des de Owncloud?
 
-
+Sí, owncloud té aquesta característica per a totes les versions de owncloud.
 
 - Es poden connectar directoris de Google Drive a Owncloud?
 
-
+Sí, és possible.
 
 - I Dropbox?
 
-
+També és possible.
 
 - Compta Owncloud amb antivirus? En cas afirmatiu com es diu? 
 
-
+Sí, s'anomena Ransomware.
 
 
 **RESPOSTA**
