@@ -51,11 +51,11 @@ Sí, a tots els països de la unió europea.
 
 - Quina és la llicència d'OWncloud Enterprise?
 
-
+És la llicència pensat per a empreses.
 
 - I la d'Owncloud Standard?
 
-
+La edició standard està programanda per a usuaris.
 
 - Es poden veure videos en Streaming directament des de Owncloud?
 
