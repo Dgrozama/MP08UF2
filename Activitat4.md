@@ -16,15 +16,15 @@ Per a que pugui accedir necessitarà:
 
 **4.1.-** Crea un usuari admin que es digui adminXYZ, on XYZ són les inicials del teu nom:
 
-**RESPOSTA**
+![image](https://user-images.githubusercontent.com/114162341/198646795-9769cd2a-57fb-45a9-ae4c-36d644554ecc.png)
 
 **4.2.-** Inicia sessió com a l'usuari adminXYZ.
 
-**RESPOSTA**
+![image](https://user-images.githubusercontent.com/114162341/198647840-071097f8-d06a-44db-af0b-f05c23a19960.png)
 
 **4.3.-** Crea un usuari XYZ on XYZ son les inicials del company/a i afegeix-lo al grup usuaris, aquest usuari tindrà una quota de 512 MB.
 
-**RESPOSTA**
+![image](https://user-images.githubusercontent.com/114162341/198649163-cca91088-2318-4c7f-bde0-6946330107f7.png)
 
 **4.4.-** Podem crear fitxers d'una mida determinada a Linux amb la comanda:
 
@@ -36,7 +36,9 @@ A l'exemple es crea un fitxer de 10MB.
 
 Crea 6 fitxers de 100MB i pujal's a Owncloud un per un.
 
-**RESPOSTA**
+![image](https://user-images.githubusercontent.com/114162341/198654268-7acd5c50-59f3-4fac-b2d2-ab1a15c60f94.png)
+
+![image](https://user-images.githubusercontent.com/114162341/198655201-429bda47-fd2f-4254-a28f-14cfae268a36.png)
 
 **4.5.-** Mostra el missatge d'error per haver superat la quota d'usuari.
 
