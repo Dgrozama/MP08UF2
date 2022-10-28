@@ -71,7 +71,7 @@ També és possible.
 
 - Compta Owncloud amb antivirus? En cas afirmatiu com es diu? 
 
-Sí, s'anomena Ransomware.
+Sí, s'anomena ClamAV.
 
 
 **RESPOSTA**
