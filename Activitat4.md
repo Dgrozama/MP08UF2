@@ -42,7 +42,7 @@ Crea 6 fitxers de 100MB i pujal's a Owncloud un per un.
 
 **4.5.-** Mostra el missatge d'error per haver superat la quota d'usuari.
 
-**RESPOSTA**
+![image](https://user-images.githubusercontent.com/114162341/198671031-1a8e7f90-320e-4b6c-b819-b56c51dc4b3b.png)
 
 **4.6.-** Busca al teu perfil quin percentatge de quota estas utilitzant.
 
