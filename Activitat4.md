@@ -96,9 +96,9 @@ S'utilitza per a afegir clients i proveïdors o simplement als teus amics, però
 
 ![image](https://user-images.githubusercontent.com/114162341/199534705-1d12500a-a233-4a24-952d-35a1e88a50e1.png)
 
+Aquesta app serveix per a afegir invitats a owncloud, és a dir és un usuari temporal que no té nom ni contrasenya.
 
-
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/114162341/199535326-1984abe8-8cd4-436e-ac6a-3e0f47eb6a9d.png)
 
 **4.14.-** Crearem una carpeta nova per emmagatzematge a Owncloud, la carpeta serà /media/publicXYZ on XYZ són les teves inicials i apareixerà amb el nom de public als usuaris.
 
