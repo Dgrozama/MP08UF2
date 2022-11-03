@@ -43,7 +43,7 @@ Ara ho trobem a la següent ruta:
  
 - Per quina raó ens recomana utilitzar Owncloud per als documents de Microsoft Office de la nostra empresa? 
 
- Perquè emmagatzema les dades (documents, etc...) al núvol per a que estiguin ben guardades i de manera segura.
+Té una llei que obliga passar les dades a Estats Units excepte a la Unió Europea.
 
 - Això passa a tots els països?
 
