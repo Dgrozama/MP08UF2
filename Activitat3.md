@@ -36,10 +36,10 @@ Ara ho trobem a la següent ruta:
   - 3 End-to-End Encryption
 
 - Fes una petita descripció de cada un d'ells.
-  1 Proporciona una manera de protegir les dades entre instancies i sistemes d'arxius muntats mitjançant el cifratge TLS.
-  2.2 És un mètode de cifratge dissenyat per a evitar que l'atacant obtingui accés a les dades sense xifratge assegurant-se de que les dades es xifrin en el disc.
-  2.2 És el mateix mètode però amb contrasenya (una clau mestra (master key))
-  3 És un procés de comunicació segur que evita que tercers accedeixin a les dades transferides d'un extrem a l'altre.
+  - 1 Proporciona una manera de protegir les dades entre instancies i sistemes d'arxius muntats mitjançant el cifratge TLS.
+  - 2.2 És un mètode de cifratge dissenyat per a evitar que l'atacant obtingui accés a les dades sense xifratge assegurant-se de que les dades es xifrin en el disc.
+  - 2.2 És el mateix mètode però amb contrasenya (una clau mestra (master key))
+  - 3 És un procés de comunicació segur que evita que tercers accedeixin a les dades transferides d'un extrem a l'altre.
  
 - Per quina raó ens recomana utilitzar Owncloud per als documents de Microsoft Office de la nostra empresa? 
 
