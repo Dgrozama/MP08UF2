@@ -104,7 +104,9 @@ Aquesta app serveix per a afegir invitats a owncloud, és a dir és un usuari te
 
 Aquesta carpeta haurà de pertànyer a l'usuari www-data.
 
-**RESPOSTA**
+![image](https://user-images.githubusercontent.com/114162341/200000239-58ca3bd2-a455-4935-9e2d-44ec6d07876f.png)
+
+
 
 **4.15.-** Connectarem la carpeta publicXYZ com emmagatzematge local, tal i com s'indica [aquí](https://doc.owncloud.com/server/next/admin_manual/configuration/files/external_storage/local.html). Tots els usuaris tindran accés a la carpeta.
 
