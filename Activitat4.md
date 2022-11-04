@@ -106,6 +106,7 @@ Aquesta carpeta haurà de pertànyer a l'usuari www-data.
 
 ![image](https://user-images.githubusercontent.com/114162341/200000239-58ca3bd2-a455-4935-9e2d-44ec6d07876f.png)
 
+![image](https://user-images.githubusercontent.com/114162341/200003188-91f3d7e4-0196-47e4-8423-c5d3c11579bc.png)
 
 
 **4.15.-** Connectarem la carpeta publicXYZ com emmagatzematge local, tal i com s'indica [aquí](https://doc.owncloud.com/server/next/admin_manual/configuration/files/external_storage/local.html). Tots els usuaris tindran accés a la carpeta.
